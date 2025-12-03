@@ -40,17 +40,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub  
-
-<div align="center">
-
-![Nayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayVictoria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayVictoria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ### 🌐 Conecte-se comigo  
 
 <div align="center">

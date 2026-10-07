@@ -2,15 +2,15 @@
 <h1 align="center">👋 Olá, eu sou a Nayara Victória!</h1>
 
 <p align="center">
-  💻 Auxiliar de TI | 🎓 Estudante de ADS | 💡 Apaixonada por tecnologia
+  💻 Assistente de TI | 🎓 Formada em ADS | 💡 Apaixonada por tecnologia
 </p>
 
 ---
 
 ### 🧠 Sobre mim  
 
-- 👩‍💻 Tenho **20 anos** e atuo como **Auxiliar de TI**, com experiência em **Help Desk e Suporte Técnico**.  
-- 🎓 Estudo **Análise e Desenvolvimento de Sistemas**, sempre buscando aprender mais sobre **programação e tecnologia**.  
+- 👩‍💻 Tenho **21 anos** e atuo como **Assistente de TI**, com experiência em **Help Desk e Suporte Técnico**.  
+- 🎓 Formada **Análise e Desenvolvimento de Sistemas**, sempre buscando aprender mais sobre **programação e tecnologia**.  
 - 🚀 Meu objetivo é **migrar para a área de desenvolvimento** e crescer profissionalmente na área de TI.  
 - 🤝 Gosto de colaborar, resolver problemas e aprender algo novo todos os dias.
 
